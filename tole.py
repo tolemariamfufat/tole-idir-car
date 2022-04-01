@@ -1,3 +1,3 @@
-echo("hello universe")
+print("Hello world!")
 
 
